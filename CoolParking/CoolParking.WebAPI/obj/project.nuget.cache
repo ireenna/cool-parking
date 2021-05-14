@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "WQixZeiPcmxr1nc39CFkuWBo4OuhHlA5I3BGSZPBIwuoELFg2tT1bvmKQ7eyVKTNw/tZ3YmO3vUeWvKVZKYFcw==",
+  "dgSpecHash": "HNX/CRnEXR4sA2D3Gag2Yi1tOwvYy7qd4ojHMm4LLcLADeLt0GM+tj0Xgz7LYYEeTUo0adtyEu3DdHzrjqiXRQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Irina\\Desktop\\CoolProject\\CoolParking\\CoolParking.WebAPI\\CoolParking.WebAPI.csproj",
+  "projectFilePath": "C:\\Users\\Irina\\Desktop\\CooolProj\\CoolParking\\CoolParking.WebAPI\\CoolParking.WebAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Irina\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
     "C:\\Users\\Irina\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",

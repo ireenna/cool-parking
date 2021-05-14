@@ -34,3 +34,15 @@ C:\Users\Irina\Documents\coolParking\CoolParking.BL\obj\Debug\net5.0\CoolParking
 C:\Users\Irina\Documents\coolParking\CoolParking.BL\obj\Debug\net5.0\CoolParking.BL.dll
 C:\Users\Irina\Documents\coolParking\CoolParking.BL\obj\Debug\net5.0\ref\CoolParking.BL.dll
 C:\Users\Irina\Documents\coolParking\CoolParking.BL\obj\Debug\net5.0\CoolParking.BL.pdb
+C:\Users\Irina\Desktop\CooolProj\CoolParking\CoolParking.BL\bin\Debug\net5.0\CoolParking.BL.deps.json
+C:\Users\Irina\Desktop\CooolProj\CoolParking\CoolParking.BL\bin\Debug\net5.0\CoolParking.BL.dll
+C:\Users\Irina\Desktop\CooolProj\CoolParking\CoolParking.BL\bin\Debug\net5.0\ref\CoolParking.BL.dll
+C:\Users\Irina\Desktop\CooolProj\CoolParking\CoolParking.BL\bin\Debug\net5.0\CoolParking.BL.pdb
+C:\Users\Irina\Desktop\CooolProj\CoolParking\CoolParking.BL\obj\Debug\net5.0\CoolParking.BL.csprojAssemblyReference.cache
+C:\Users\Irina\Desktop\CooolProj\CoolParking\CoolParking.BL\obj\Debug\net5.0\CoolParking.BL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Irina\Desktop\CooolProj\CoolParking\CoolParking.BL\obj\Debug\net5.0\CoolParking.BL.AssemblyInfoInputs.cache
+C:\Users\Irina\Desktop\CooolProj\CoolParking\CoolParking.BL\obj\Debug\net5.0\CoolParking.BL.AssemblyInfo.cs
+C:\Users\Irina\Desktop\CooolProj\CoolParking\CoolParking.BL\obj\Debug\net5.0\CoolParking.BL.csproj.CoreCompileInputs.cache
+C:\Users\Irina\Desktop\CooolProj\CoolParking\CoolParking.BL\obj\Debug\net5.0\CoolParking.BL.dll
+C:\Users\Irina\Desktop\CooolProj\CoolParking\CoolParking.BL\obj\Debug\net5.0\ref\CoolParking.BL.dll
+C:\Users\Irina\Desktop\CooolProj\CoolParking\CoolParking.BL\obj\Debug\net5.0\CoolParking.BL.pdb

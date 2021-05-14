@@ -143,10 +143,6 @@ namespace ParkingApp
                                 {
                                     Console.WriteLine("The vehicle was successfully topped up!");
                                 }
-                                else
-                                {
-                                    Console.WriteLine("Try again.");
-                                }
                             }
 
                             break;

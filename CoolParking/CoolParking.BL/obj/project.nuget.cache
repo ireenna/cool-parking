@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "j1j7kXd5RBTdZ1hncCRkmXEIH09H0tdrm6uSAFx6CFw+AahqTUHAa0ym4qrB7U9zLNAQjsVDukwxO6VdZ22qBw==",
+  "dgSpecHash": "sUiFyUza/f0DX4bRP3cEL29drS2r82dVdo5VRKWxDMjqpWtYpLIeD/P8TRdq3KBgCZOsC1Y2IY3t+RNoS1TAAQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Irina\\Desktop\\CoolProject\\CoolParking\\CoolParking.BL\\CoolParking.BL.csproj",
+  "projectFilePath": "C:\\Users\\Irina\\Desktop\\CooolProj\\CoolParking\\CoolParking.BL\\CoolParking.BL.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Irina\\.nuget\\packages\\system.componentmodel.annotations\\5.0.0\\system.componentmodel.annotations.5.0.0.nupkg.sha512"
   ],

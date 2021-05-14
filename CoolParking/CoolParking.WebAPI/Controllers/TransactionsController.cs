@@ -61,17 +61,16 @@ namespace CoolParking.WebAPI.Controllers
         [HttpPut("topUpVehicle")]
         public ActionResult TopUpVeh([FromBody] TopUpVehicleBody topUpVehicle) //<VehicleBody>
         {
+            Vehicle vehicle;
             try
             {
-                Vehicle vehicle = parkingService.FindVehicleById((topUpVehicle.Id));
+                vehicle = parkingService.FindVehicleById((topUpVehicle.Id));
+                if (vehicle == null)
+                    return NotFound();
                 parkingService.TopUpVehicle(topUpVehicle.Id, topUpVehicle.Sum);
                 vehicle = parkingService.FindVehicleById(topUpVehicle.Id);
                 VehicleBody vb = new VehicleBody{VehicleType = (int)vehicle.VehicleType, Balance = vehicle.Balance, Id = vehicle.Id};
                 return Ok(vb);
-            }
-            catch (ArgumentException e)
-            {
-                return NotFound(e.Message);
             }
             catch (Exception e)
             {

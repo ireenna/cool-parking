@@ -6529,11 +6529,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Irina\\Desktop\\CoolProject\\CoolParking\\CoolParking.BL.Tests\\CoolParking.BL.Tests.csproj",
+      "projectUniqueName": "C:\\Users\\Irina\\Desktop\\CooolProj\\CoolParking\\CoolParking.BL.Tests\\CoolParking.BL.Tests.csproj",
       "projectName": "CoolParking.BL.Tests",
-      "projectPath": "C:\\Users\\Irina\\Desktop\\CoolProject\\CoolParking\\CoolParking.BL.Tests\\CoolParking.BL.Tests.csproj",
+      "projectPath": "C:\\Users\\Irina\\Desktop\\CooolProj\\CoolParking\\CoolParking.BL.Tests\\CoolParking.BL.Tests.csproj",
       "packagesPath": "C:\\Users\\Irina\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Irina\\Desktop\\CoolProject\\CoolParking\\CoolParking.BL.Tests\\obj\\",
+      "outputPath": "C:\\Users\\Irina\\Desktop\\CooolProj\\CoolParking\\CoolParking.BL.Tests\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -6553,8 +6553,8 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "C:\\Users\\Irina\\Desktop\\CoolProject\\CoolParking\\CoolParking.BL\\CoolParking.BL.csproj": {
-              "projectPath": "C:\\Users\\Irina\\Desktop\\CoolProject\\CoolParking\\CoolParking.BL\\CoolParking.BL.csproj"
+            "C:\\Users\\Irina\\Desktop\\CooolProj\\CoolParking\\CoolParking.BL\\CoolParking.BL.csproj": {
+              "projectPath": "C:\\Users\\Irina\\Desktop\\CooolProj\\CoolParking\\CoolParking.BL\\CoolParking.BL.csproj"
             }
           }
         }

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "a+76fT+Cd5CG7IcEIo2UFuqY00wWycvslwzkgZ+l2UvAxmhdkM8ZV8NJw6IppTiosAr8MnSLO+doo26ipPqA7g==",
+  "dgSpecHash": "XjF7qsr5sxXsLlxk81AH2l33OmXvjnMvAIIi4+G3AidGRDz1gExTShg+wXY4MVVgIyVNFADSSbRvxi+L1OBhOA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Irina\\Desktop\\CoolProject\\CoolParking\\ParkingApp\\ParkingApp.csproj",
+  "projectFilePath": "C:\\Users\\Irina\\Desktop\\CooolProj\\CoolParking\\ParkingApp\\ParkingApp.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Irina\\.nuget\\packages\\castle.core\\4.3.1\\castle.core.4.3.1.nupkg.sha512",
     "C:\\Users\\Irina\\.nuget\\packages\\fakeiteasy\\7.0.1\\fakeiteasy.7.0.1.nupkg.sha512",

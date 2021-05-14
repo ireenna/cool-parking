@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "xBEIXfGIZ6qbzCv/OqATPWWC21y1DDjz+56paAH31QxGABvNO9/UsMmszQtKVbgorLYii+Ssovlh4wmD89peLw==",
+  "dgSpecHash": "AwpNrCUqwr65u1oyWfDPIl0jnYpOXT7tc2qgpducPbKotmK36RoKwe1LdQdkjz7KIDQ/3qmSxTXxh5Wwx1RxeA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Irina\\Desktop\\CoolProject\\CoolParking\\CoolParking.BL.Tests\\CoolParking.BL.Tests.csproj",
+  "projectFilePath": "C:\\Users\\Irina\\Desktop\\CooolProj\\CoolParking\\CoolParking.BL.Tests\\CoolParking.BL.Tests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Irina\\.nuget\\packages\\castle.core\\4.3.1\\castle.core.4.3.1.nupkg.sha512",
     "C:\\Users\\Irina\\.nuget\\packages\\coverlet.collector\\3.0.3\\coverlet.collector.3.0.3.nupkg.sha512",
