@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.IO;
 using System.Linq;
 using System.Threading.Tasks;
 using CoolParking.BL.Interfaces;
@@ -64,9 +65,18 @@ namespace CoolParking.WebAPI.Controllers
             Vehicle vehicle;
             try
             {
-                vehicle = parkingService.FindVehicleById((topUpVehicle.Id));
-                if (vehicle == null)
+                try
+                {
+                    vehicle = parkingService.FindVehicleById((topUpVehicle.Id));
+                }
+                catch (InvalidDataException)
+                {
+                    return BadRequest();
+                }
+                catch (ArgumentException)
+                {
                     return NotFound();
+                }
                 parkingService.TopUpVehicle(topUpVehicle.Id, topUpVehicle.Sum);
                 vehicle = parkingService.FindVehicleById(topUpVehicle.Id);
                 VehicleBody vb = new VehicleBody{VehicleType = (int)vehicle.VehicleType, Balance = vehicle.Balance, Id = vehicle.Id};
