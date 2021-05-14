@@ -1,0 +1,14 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\CoolParking.BL.Tests\CoolParking.BL.Tests.csproj" />
+    <ProjectReference Include="..\CoolParking.BL\CoolParking.BL.csproj" />
+    <ProjectReference Include="..\CoolParking.WebAPI\CoolParking.WebAPI.csproj" />
+  </ItemGroup>
+
+</Project>

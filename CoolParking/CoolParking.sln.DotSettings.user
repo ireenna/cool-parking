@@ -1,0 +1,19 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	
+	
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=1080ee65_002D77d0_002D4fd9_002D994c_002D58373ce3321a/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="RemoveVehicle_WhenUnexistingVehicle_ThenThrowArgumentException" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;xUnit::0DBA95BF-14F2-4E07-9784-168BC5BC515A::net5.0::CoolParking.BL.Tests.ParkingServiceTests.RemoveVehicle_WhenUnexistingVehicle_ThenThrowArgumentException&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::0DBA95BF-14F2-4E07-9784-168BC5BC515A::net5.0::CoolParking.BL.Tests.ParkingServiceTests.RemoveVehicle_WhenSingleExistingVehicle_ThenVehiclesEmpty&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::0DBA95BF-14F2-4E07-9784-168BC5BC515A::net5.0::CoolParking.BL.Tests.ParkingServiceTests.AddVehicle_WhenExistingVehicleId_ThenThrowArgumentException&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=28048e73_002D2729_002D4998_002Db15a_002Dbf511f7d6421/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="Parking_IsSingelton" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;ProjectFile&gt;0DBA95BF-14F2-4E07-9784-168BC5BC515A/f:ParkingServiceTests.cs&lt;/ProjectFile&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=e1d4ee8d_002D6564_002D4afe_002D9f4e_002D96737e9b2a28/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="All tests from Solution" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;Solution /&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=f82ac60e_002De8fd_002D48ea_002D96fd_002Dbac7f68dfcec/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="AddVehicle_WhenNewVehicle_ThenVehiclesPlusOne" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;Solution /&gt;&#xD;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>

@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31129.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CoolParking.BL", "CoolParking.BL\CoolParking.BL.csproj", "{80E524A1-A596-4EDD-9A6B-455289812FBE}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CoolParking.BL.Tests", "CoolParking.BL.Tests\CoolParking.BL.Tests.csproj", "{3AE8AE46-9E80-44EF-9CC2-0EA4E4F1C052}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CoolParking.WebAPI", "CoolParking.WebAPI\CoolParking.WebAPI.csproj", "{7D457E4A-83F1-4595-8F9F-91E0105D7779}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ParkingApp", "ParkingApp\ParkingApp.csproj", "{A069D02F-6173-41E4-8C9D-BFF3C07FABBD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{80E524A1-A596-4EDD-9A6B-455289812FBE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{80E524A1-A596-4EDD-9A6B-455289812FBE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{80E524A1-A596-4EDD-9A6B-455289812FBE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{80E524A1-A596-4EDD-9A6B-455289812FBE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3AE8AE46-9E80-44EF-9CC2-0EA4E4F1C052}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3AE8AE46-9E80-44EF-9CC2-0EA4E4F1C052}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3AE8AE46-9E80-44EF-9CC2-0EA4E4F1C052}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3AE8AE46-9E80-44EF-9CC2-0EA4E4F1C052}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7D457E4A-83F1-4595-8F9F-91E0105D7779}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7D457E4A-83F1-4595-8F9F-91E0105D7779}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7D457E4A-83F1-4595-8F9F-91E0105D7779}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7D457E4A-83F1-4595-8F9F-91E0105D7779}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A069D02F-6173-41E4-8C9D-BFF3C07FABBD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A069D02F-6173-41E4-8C9D-BFF3C07FABBD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A069D02F-6173-41E4-8C9D-BFF3C07FABBD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A069D02F-6173-41E4-8C9D-BFF3C07FABBD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A1BD19F9-55DA-49E4-9E83-DAA95DE53EF2}
+	EndGlobalSection
+EndGlobal
